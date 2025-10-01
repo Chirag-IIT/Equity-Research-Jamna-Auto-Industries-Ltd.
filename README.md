@@ -1,6 +1,6 @@
 # Equity Research Report – Jamna Auto Industries Ltd.
 
-This repository contains an equity research project on **Jamna Auto Industries Ltd.**, a leading company in the **Auto Ancillaries sector**. The research covers detailed fundamental and technical analysis along with industry insights.
+This repository contains an equity research project on **Jamna Auto Industries Ltd.**, in the **Auto Ancillaries sector**. The research covers fundamental & technical analysis, industry insights, and an investment thesis.
 
 ---
 
@@ -8,39 +8,36 @@ This repository contains an equity research project on **Jamna Auto Industries L
 - **Sector:** Auto Ancillaries  
 - **Company:** Jamna Auto Industries Ltd.  
 - **Focus Areas:**  
-  - Fundamental Analysis (Financials, Ratios, Valuation)  
-  - Technical Analysis (Trends, RSI, Price Movements)  
-  - Porter’s Five Forces & SWOT Analysis  
-  - Competitor Benchmarking  
-  - Balance Sheet & Shareholding Analysis  
-  - Investment Recommendation (Long-term Buy)  
+  - Fundamental Analysis (financials, ratios, valuation)  
+  - Technical Analysis (trend, candlestick patterns)  
+  - Porter’s Five Forces & SWOT  
+  - Competitor benchmarking  
+  - Balance sheet & shareholding  
+  - Investment recommendation (long-term view)  
 
 ---
 
 ## 📂 Contents
-- [`Equity Research.pdf`](Equity_Research.pdf) – Full detailed report  
-- Data, charts, and insights on Jamna Auto Industries Ltd.  
+- Google Drive Link to Report  
+- Supporting data, charts, and supplementary files  
+
+---
+
+## 📥 Access Full Report
+📄 [View / Download the full report](https://drive.google.com/file/d/1ffNB-dJ_9eKjJGbngfZooTS6AwO_BfxA/view?usp=sharing)  
 
 ---
 
 ## 📊 Key Highlights
-- Consistent **growth in EPS, profitability, and liquidity** over FY21–FY24  
-- **ROCE of 30.73%**, higher than most industry peers  
-- Strong **dividend yield (2.1%)**, attractive for income investors  
-- Efficient capital utilization and **sustainable growth outlook**  
-
----
-
-## 📥 Access Report
-📄 [Click here to view/download the full report](Equity_Research.pdf)
+- Strong EPS & revenue growth in FY21–FY24  
+- ROCE of ~30.73%, surpassing many peers  
+- Dividend yield ~2.1%, indicating shareholder returns  
+- Efficient use of capital, positive outlook long-term  
 
 ---
 
 ## 👨‍💻 Authors
 - Chirag Agarwal  
-- Akshat Mittal
-- 
----
+- Akshat Mittal  
 
-## 📌 Disclaimer
-This report is prepared for educational and research purposes only. It does not constitute financial advice. Please do your own due diligence before making investment decisions.
+---
