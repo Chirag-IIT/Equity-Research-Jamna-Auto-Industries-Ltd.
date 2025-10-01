@@ -18,7 +18,7 @@ This repository contains an equity research project on **Jamna Auto Industries L
 ---
 
 ## 📂 Contents
-- [`Equity_Research_Report.pdf`](Equity_Research.pdf) – Full detailed report  
+- [`Equity Research.pdf`](Equity_Research.pdf) – Full detailed report  
 - Data, charts, and insights on Jamna Auto Industries Ltd.  
 
 ---
